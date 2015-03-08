@@ -12,10 +12,11 @@ body {
 
 .business-header {
     height: 400px;
-    background: url('/images/teamxxxlarge.jpg') center center no-repeat scroll;
+    /*background: url('/images/teamHeader.jpg') center center no-repeat scroll;*/
+    background: url('/images/Delta3_tag_GRN.jpg') center center no-repeat scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: cover;
+    background-size: contain;
     -o-background-size: cover;
 }
 

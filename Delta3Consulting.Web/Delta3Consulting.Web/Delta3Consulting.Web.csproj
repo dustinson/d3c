@@ -66,8 +66,15 @@
     <Content Include="css\business-frontpage.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="images\celebrateXXXLarge.jpg" />
+    <Content Include="images\d3Logo.gif" />
+    <Content Include="images\Delta3_tag_GRN.bmp" />
+    <Content Include="images\Delta3_tag_GRN.jpg" />
+    <Content Include="images\Delta3_tag_GRN.png" />
+    <Content Include="images\Delta3_tag_GRN.tif" />
+    <Content Include="images\MagicSq.jpg" />
     <Content Include="images\MagicXXXLarge.jpg" />
     <Content Include="images\PresentXXXLarge.jpg" />
+    <Content Include="images\teamHeader.jpg" />
     <Content Include="images\teamXXXLarge.jpg" />
     <Content Include="index.html" />
     <Content Include="js\bootstrap.js" />

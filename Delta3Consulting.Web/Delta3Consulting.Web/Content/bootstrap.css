@@ -4333,6 +4333,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 @media (min-width: 768px) {
   .navbar-header {
     float: left;
+    background: url('/images/d3Logo.gif') center center no-repeat scroll;
   }
 }
 
