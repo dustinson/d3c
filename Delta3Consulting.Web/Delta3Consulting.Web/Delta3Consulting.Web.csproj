@@ -64,6 +64,7 @@
     <Content Include="css\bootstrap.css" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\business-frontpage.css" />
+    <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="images\celebrate1124.jpg" />
     <Content Include="images\celebrateXXXLarge.jpg" />
