@@ -87,6 +87,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="404.html" />
+    <Content Include="about.markdown" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -96,6 +98,8 @@
     <Content Include="css\business-frontpage.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Gemfile" />
+    <Content Include="Gemfile.lock" />
     <Content Include="images\celebrate1124.jpg" />
     <Content Include="images\celebrateXXXLarge.jpg" />
     <Content Include="images\d3Logo.gif" />
@@ -111,6 +115,7 @@
     <Content Include="images\teamHeader.jpg" />
     <Content Include="images\teamXXXLarge.jpg" />
     <Content Include="index.html" />
+    <Content Include="index.markdown" />
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\jquery.js" />
@@ -119,6 +124,20 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="ApplicationInsights.config" />
+    <Content Include="_config.yml" />
+    <Content Include="_posts\2022-08-29-test-1.markdown" />
+    <Content Include="_posts\2022-08-29-welcome-to-jekyll.markdown" />
+    <Content Include="_site\.DS_Store" />
+    <Content Include="_site\404.html" />
+    <Content Include="_site\about\index.html" />
+    <Content Include="_site\assets\main.css" />
+    <Content Include="_site\assets\main.css.map" />
+    <Content Include="_site\assets\minima-social-icons.svg" />
+    <Content Include="_site\feed.xml" />
+    <Content Include="_site\index.html" />
+    <Content Include="_site\jekyll\update\2022\08\29\test-1.html" />
+    <Content Include="_site\jekyll\update\2022\08\29\welcome-to-jekyll.html" />
+    <Content Include="_site\README.md" />
     <None Include="Scripts\jquery-1.9.0.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
